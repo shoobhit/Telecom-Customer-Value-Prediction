@@ -14,7 +14,7 @@ Tech Stack
 🔹 Python (Pandas, NumPy, Scikit-learn)
 🔹 Machine Learning (Random Forest, XGBoost)
 
-nstallation & Usage
+Installation & Usage
 
 1️⃣ Clone the Repository
 
