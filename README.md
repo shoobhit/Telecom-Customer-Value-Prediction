@@ -29,7 +29,13 @@ pip install -r requirements.txt
 
 python src/train.py
 
- Contribution Guidelines
+Final Result 
+
+Random Forest R² Score  99.999906959
+Mean Absolute Error  66.85981913736107
+Root Mean Square Error  134.83207497272522
+
+Contribution Guidelines
 
 ✅ Fork the repo & create a new branch.
 ✅ Make improvements & submit a pull request.
